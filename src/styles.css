@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Poppins:wght@200;300;400;500;600;700&family=Roboto:wght@300;400&display=swap");
+
+body {
+  font-family: sans-serif, "PT Sans", sans-serif, "Roboto", sans-serif;
+
+  background: #0f1b21;
+}
